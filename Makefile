@@ -1,4 +1,2 @@
-info:
-	cat /etc/os-release
-	env
+version:
 	go version
